@@ -30,6 +30,5 @@ function btnClickHandler(e) {
         }, 2000);
 
     }
-
 }
 buttonsContainer.addEventListener('click', btnClickHandler);
